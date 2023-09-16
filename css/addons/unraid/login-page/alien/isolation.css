@@ -2,7 +2,7 @@
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url(/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
-    --logo: url(https://images-webcams.windy.com/50/1469458650/current/full/1469458650.jpg) center no-repeat;
+    --logo: url(https://banner2.cleanpng.com/20180423/pse/kisspng-dragon-logo-deviantart-dragon-logo-5ade0b73785be3.490532671524501363493.jpg) center no-repeat;
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
